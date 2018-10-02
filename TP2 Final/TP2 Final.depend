@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1538448293 source:c:\users\alons\desktop\tps programacion\tp2 (abm , listados y calculos)\tp2 final\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1538444376 c:\users\alons\desktop\tps programacion\tp2 (abm , listados y calculos)\tp2 final\arrayemployees.h
+
+1538441051 c:\users\alons\desktop\tps programacion\tp2 (abm , listados y calculos)\tp2 final\utn.h
+
+1538448520 source:c:\users\alons\desktop\tps programacion\tp2 (abm , listados y calculos)\tp2 final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ArrayEmployees.h"
+	"ArrayEmployees.c"
+	"utn.h"
+
+1538448293 c:\users\alons\desktop\tps programacion\tp2 (abm , listados y calculos)\tp2 final\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1538447847 source:c:\users\alons\desktop\tps programacion\tp2 (abm , listados y calculos)\tp2 final\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
